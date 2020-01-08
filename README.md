@@ -106,12 +106,12 @@ Ba-dum-tssss.
 
 ### Download
 
-Head to (KaraOkay's project page)[https://github.com/kara-okay/karaokay],
+Head to [KaraOkay's project page](https://github.com/kara-okay/karaokay),
 and clone or download the git repository. Chances are pretty good you're 
 already on this page, if you're reading this online
 Don't worry, if you don't know what a git repository is. Just head to the
-upper right corner of the webpage, click the green button "Clone or
-donwload" and download the ZIP file.
+upper right corner of the webpage, click the green button that reads
+ "Clone or download" and download the ZIP file.
 
 ### Installation
 
