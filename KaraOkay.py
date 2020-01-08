@@ -84,7 +84,6 @@ class KaraOkay:
       self.fontfile = "./fonts/SourceSansPro-Semibold.ttf"
 
     self.updateFont()
-    sys.exit()
     
   def run(self):
     """
