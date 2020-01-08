@@ -2,15 +2,15 @@ KaraOkay
 ========
 
 Produce an okay karaoke movie from a text file
---------------------------------------------------
+----------------------------------------------
 
 ### What is does
 
-KaraOkay converts a text file and the half playback of the song you want
-to sing on your next karaoke party to a movie which provides the lyrics
-and music for your memorable performance.
+KaraOkay takes a text file and the half playback of the song you want
+to sing on your next karaoke party and turns it into a movie which
+provides the lyrics and music for your memorable performance.
 
-Text text file will look a bit like this:
+The text file will look a bit like this:
 
 ```
 # Duration: 2:45.75
