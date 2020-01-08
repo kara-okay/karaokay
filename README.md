@@ -106,25 +106,26 @@ Ba-dum-tssss.
 
 ### Download
 
-Head to [KaraOkay's project page](https://github.com/kara-okay/karaokay),
+Head to [KaraOkay's project page](https://github.com/kara-okay/karaokay)
 and clone or download the git repository. Chances are pretty good you're 
-already on this page, if you're reading this online
-Don't worry, if you don't know what a git repository is. Just head to the
-upper right corner of the webpage, click the green button that reads
- "Clone or download" and download the ZIP file.
+already on this page, if you're reading this online.
+Don't worry, if you don't know what a git repository is. Just find click
+the green button that reads "Clone or download" and download the ZIP
+file.
 
 ### Installation
 
 This is a tiny [python 3](https://www.python.org/) script, standing on
 the shoulders of giants. It conjures the magic of
 [pygame](https://www.pygame.org/wiki/GettingStarted) to do the graphics
-and the sourcery of [moviepy](https://pypi.org/project/moviepy/) (and
+and the sorcery of [moviepy](https://pypi.org/project/moviepy/) (and
 thus [ffmpeg](https://ffmpeg.org/)) to create the movies.
 
-Here's the installation process in the ideal
-"[pip](https://pypi.org/project/pip/) works just fine world", which
-worked for me on a current GNU/Linux. Please read into the installation
-instructions of the respective project, if you run into any trouble:
+Assuming you already have python 3 installed on your system, here's the
+installation process in the ideal "[pip](https://pypi.org/project/pip/)
+works just fine world", which worked for me on a current GNU/Linux.
+Please read into the installation instructions of the respective
+project, if you run into any trouble:
 
 ```
 $> python3 -m pip install -U pygame --user
