@@ -1,0 +1,4 @@
+Source Sans Pro is a sans serif typeface distributed under the SIL Open
+Font License.
+
+see https://blogs.adobe.com/typblography/2012/08/source-sans-pro.html
